@@ -1,4 +1,4 @@
-# Team Generator
+# Team Generator with Anuglar
 
 Generating teams based on how many group you want
 
